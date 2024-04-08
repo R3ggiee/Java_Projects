@@ -1,0 +1,9 @@
+GWashington	71
+JAdams	81
+TJefferson	78
+JMadison	94
+JMonroe	65
+JQAdams	53
+AJackson	77
+MVanBuren	79
+JKPolk	76
